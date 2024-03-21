@@ -93,16 +93,17 @@
 - **Top 5 and Bottom 5 Product for Market**: Top 5 and Bottom 5 Products filtered by Gross Margin %, Gross Margin % LY and Gross Margin % Growth.   
 
 
-## Technical & Soft Skills:
+## Technical Skills:
 - [x]	Proficiency in ETL methodology (Extract, Transform, Load).
 - [x]	Skills to generate a date table using Power Query.
 - [x]	Ability to derive fiscal months and quarters.
-- [x]	Establishing data model relationships with Power Pivot.
+- [x]	Establishing data model relationships in Model View.
 - [x]	Proficiency in incorporating supplementary data into an existing data model.
-- [x]	Utilizing DAX to create calculated columns.
+- [x]	Utilizing DAX to create calculated columns and tables.
+- [x]	Using different visuals to represent Key Insights.
 
 ## Soft Skills:
-- [x]	Refined understanding of Sales & Finance Reports
-- [x]	Designing user-centric reports with empathy in mind.
-- [x]	Optimization of report generation through meticulous fine-tuning.
-- [x]	Developing a systematic approach to devising a report building plan.
+- [x]	Refined understanding of Finance, Sales, Marketing, Supply Chain and Executives.
+- [x]	Designing user-centric Dashborads with empathy in mind.
+- [x]	Optimization of Dashboards generation through meticulous fine-tuning and implementing Cloud Storage(Sharepoint).
+- [x]	Stakeholder Management and manageing their requirement.
