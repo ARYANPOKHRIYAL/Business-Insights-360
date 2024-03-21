@@ -102,6 +102,8 @@
 - [x]	Proficiency in incorporating supplementary data into an existing data model.
 - [x]	Utilizing DAX to create calculated columns and tables.
 - [x]	Using different visuals to represent Key Insights.
+- [x]	Used MySQL Database to load and retrieve the data.
+- [x]	Optimized the size of the file using DAX Studio.
 
 ## Soft Skills:
 - [x]	Refined understanding of Finance, Sales, Marketing, Supply Chain and Executives.
