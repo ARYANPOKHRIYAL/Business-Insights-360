@@ -32,25 +32,24 @@
 
 - **View objective:** 
 
-    **1.** Created a Dashboard for _[Finance View](https://github.com/ARYANPOKHRIYAL/Business-Insights-360/blob/Aryan/Finance%20View.pdf)_ 
+    **1.** Created a Dashboard for _[Sales View](https://github.com/ARYANPOKHRIYAL/Business-Insights-360/blob/Aryan/Sales%20View.pdf)_
+  
+- **Customer Performance:** Customer Performance based on their Net Sales, Gross Margin and Gross Margin %.
 
-- **KPI Visuals:** KPI Visuals for Net Sales, Gross Margin % and Net Profit %, compared with their benchmark values(Last Year/Targets).
+- **Product Performance:** Product Performance based on their Net Sales, Gross Margin and Gross Margin %.
 
-- **Profit & Loss Statement** A summary of a company's revenues, expenses, and profits/losses over a given period of time.
+- **Performance Matrix** Scatter Plot showing the distribution of Customers according to Gross Margin % and Net Sales. Customers in the Top Right quadrant are having High Gross Margin % and High Net Sales.
 
-- **Top/Bottom Customers by Net Sales:** The two lower visuals give the insights about the Top & Bottom Customers and Products according to their Net Sales contribution.
+-**Key Metrics by Products:** Donut Charts showing important metrics(Net Sales, Total Post Invoice Deductions, Pre Invoice Deductions, COGS, Gross Margin) Distribution for the specific fiscal year.
 
 ## Finance View :
 
 - **View objective:** 
 
-    **1.** Created a Dashboard for _[Finance View](https://github.com/ARYANPOKHRIYAL/Business-Insights-360/blob/Aryan/Finance%20View.pdf)_ 
+    **1.** Created a Dashboard for _[Marketing View](https://github.com/ARYANPOKHRIYAL/Business-Insights-360/blob/Aryan/Marketing%20View.pdf)_
+- ****
 
-- **KPI Visuals:** KPI Visuals for Net Sales, Gross Margin % and Net Profit %, compared with their benchmark values(Last Year/Targets).
 
-- **Profit & Loss Statement** A summary of a company's revenues, expenses, and profits/losses over a given period of time.
-
-- **Top/Bottom Customers by Net Sales:** The two lower visuals give the insights about the Top & Bottom Customers and Products according to their Net Sales contribution.
 
 
 ## Technical & Soft Skills:
