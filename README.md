@@ -47,7 +47,14 @@
 - **View objective:** 
 
     **1.** Created a Dashboard for _[Marketing View](https://github.com/ARYANPOKHRIYAL/Business-Insights-360/blob/Aryan/Marketing%20View.pdf)_
-- ****
+
+- **Product Performance:** Product Performance based on their Net Sales, Gross Margin, Gross Margin %, Net Profit and Net Profit %.
+  
+- **Region/Market/Customer Performance:** Performance of a Customer distributed by Key metrics. Can be filtered according to its Market or its Region.
+
+- **Performance Matrix with Dual Filters:** Scatter Plot showing the distribution of Customers according to **Gross Margin %** or **Net Profit %** & **Net Sales**. Customers in the Top Right quadrant are very Profitable.
+
+- **Unit Economics:** Insights about the Individual customer's breakdown of Key Metrics(COGS and Gross Margin) in a Donut Chart, and about the Net Profit made after Operational Expenses using a Waterfall chart.
 
 
 
