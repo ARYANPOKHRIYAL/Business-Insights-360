@@ -42,7 +42,7 @@
 
 - **Key Metrics by Products:** Donut Charts showing important metrics(Net Sales, Total Post Invoice Deductions, Pre Invoice Deductions, COGS, Gross Margin) Distribution for the specific fiscal year.
 
-## Finance View :
+## Marketing View :
 
 - **View objective:** 
 
@@ -56,7 +56,17 @@
 
 - **Unit Economics:** Insights about the Individual customer's breakdown of Key Metrics(COGS and Gross Margin) in a Donut Chart, and about the Net Profit made after Operational Expenses using a Waterfall chart.
 
+## Supply Chain View :
 
+- **View objective:** 
+
+    **1.** Created a Dashboard for _[Supply Chain View](https://github.com/ARYANPOKHRIYAL/Business-Insights-360/blob/Aryan/Supply%20Chain%20View.pdf)_
+
+- **KPI Visuals:** KPI Visuals for Forecast Accuracy, Net Error and ABS Error compared with their benchmark values(Last year).
+
+- **Accuracy/Net Error Trend:** Monthly Distribution of Net Error and Forecast Accuracy (cuurent and last year) using a Line and Clustered Column Chart.
+
+- **Key Metrics by Products:** Distribution of Key metrics based on products for the Supply Chain Team.
 
 
 ## Technical & Soft Skills:
