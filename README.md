@@ -38,9 +38,9 @@
 
 - **Product Performance:** Product Performance based on their Net Sales, Gross Margin and Gross Margin %.
 
-- **Performance Matrix** Scatter Plot showing the distribution of Customers according to Gross Margin % and Net Sales. Customers in the Top Right quadrant are having High Gross Margin % and High Net Sales.
+- **Performance Matrix:** Scatter Plot showing the distribution of Customers according to Gross Margin % and Net Sales. Customers in the Top Right quadrant are having High Gross Margin % and High Net Sales.
 
--**Key Metrics by Products:** Donut Charts showing important metrics(Net Sales, Total Post Invoice Deductions, Pre Invoice Deductions, COGS, Gross Margin) Distribution for the specific fiscal year.
+- **Key Metrics by Products:** Donut Charts showing important metrics(Net Sales, Total Post Invoice Deductions, Pre Invoice Deductions, COGS, Gross Margin) Distribution for the specific fiscal year.
 
 ## Finance View :
 
