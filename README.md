@@ -104,6 +104,7 @@
 - [x]	Using different visuals to represent Key Insights.
 - [x]	Used MySQL Database to load and retrieve the data.
 - [x]	Optimized the size of the file using DAX Studio.
+- [x]	Used Tooltips to show the trend.
 
 ## Soft Skills:
 - [x]	Refined understanding of Finance, Sales, Marketing, Supply Chain and Executives.
