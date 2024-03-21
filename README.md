@@ -3,34 +3,54 @@
 ## Home Page :
 
 
-- **objective:** 
+- **View objective:** 
 
-    **1.** Create a _[Home Page](https://github.com/ARYANPOKHRIYAL/Excel-Sales-Analytics/blob/Aryan/Customer%20Performance%20Report%20using%20ETL.pdf)_ 
+    **1.** Created a _[Home Page](https://github.com/ARYANPOKHRIYAL/Business-Insights-360/blob/Aryan/Home%20Page.pdf)_ fro the user to navigate to different Views in the Dashboard.
 
-    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/ARYANPOKHRIYAL/Excel-Sales-Analytics/blob/Aryan/Market%20Performance%20vs%20Target%20using%20ETL.pdf)_
+    **2.** The Images have navigation to their respective Views.
 
-- **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
+- **Last Refreshed Date:** Shows the last data when the database was refreshed
 
-- **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
+- **Values in Millions($):** Values in the Dashboard are in Millions $.
 
-- **Role of reports:** Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
+- **Sales data loaded till mmm/yy:** Sales data provided in the data base is up to the date "mmm/yy".
 
 
-## Finance Report :
+## Finance View :
 
-- **Project objective:** 
+- **View objective:** 
 
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/ARYANPOKHRIYAL/Excel-Sales-Analytics/blob/Aryan/P%26L%20by%20Year.pdf)_ 
+    **1.** Created a Dashboard for _[Finance View](https://github.com/ARYANPOKHRIYAL/Business-Insights-360/blob/Aryan/Finance%20View.pdf)_ 
 
-   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/ARYANPOKHRIYAL/Excel-Sales-Analytics/blob/Aryan/P%26L%20by%20Markets.pdf)_
+- **KPI Visuals:** KPI Visuals for Net Sales, Gross Margin % and Net Profit %, compared with their benchmark values(Last Year/Targets).
 
-   **3.** Create Profit and Loss (P&L) reports by _[Months](https://github.com/ARYANPOKHRIYAL/Excel-Sales-Analytics/blob/Aryan/P%26L%20by%20Fiscal%20Months.pdf)_
+- **Profit & Loss Statement** A summary of a company's revenues, expenses, and profits/losses over a given period of time.
 
-- **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
+- **Top/Bottom Customers by Net Sales:** The two lower visuals give the insights about the Top & Bottom Customers and Products according to their Net Sales contribution.
 
-- **Importance of analyzing Finance data:** Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
+## Sales View :
 
-- **Role of reports:** Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
+- **View objective:** 
+
+    **1.** Created a Dashboard for _[Finance View](https://github.com/ARYANPOKHRIYAL/Business-Insights-360/blob/Aryan/Finance%20View.pdf)_ 
+
+- **KPI Visuals:** KPI Visuals for Net Sales, Gross Margin % and Net Profit %, compared with their benchmark values(Last Year/Targets).
+
+- **Profit & Loss Statement** A summary of a company's revenues, expenses, and profits/losses over a given period of time.
+
+- **Top/Bottom Customers by Net Sales:** The two lower visuals give the insights about the Top & Bottom Customers and Products according to their Net Sales contribution.
+
+## Finance View :
+
+- **View objective:** 
+
+    **1.** Created a Dashboard for _[Finance View](https://github.com/ARYANPOKHRIYAL/Business-Insights-360/blob/Aryan/Finance%20View.pdf)_ 
+
+- **KPI Visuals:** KPI Visuals for Net Sales, Gross Margin % and Net Profit %, compared with their benchmark values(Last Year/Targets).
+
+- **Profit & Loss Statement** A summary of a company's revenues, expenses, and profits/losses over a given period of time.
+
+- **Top/Bottom Customers by Net Sales:** The two lower visuals give the insights about the Top & Bottom Customers and Products according to their Net Sales contribution.
 
 
 ## Technical & Soft Skills:
